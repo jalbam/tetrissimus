@@ -13,3 +13,5 @@ Description
 
 Tetrissimus is an open source "Tetris" alike game totally written in DHTML (JavaScript, CSS and HTML) that uses keyboard.
 This cross-platform and cross-browser game was tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows and others.
+
+Official web site: http://tetrissimus.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/tetrissimus/).
