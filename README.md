@@ -1,10 +1,11 @@
-Tetrissimus
-============ by Joan Alba Maldonado (granvino@granvino.com)
+Tetrissimus 
+============ 
+by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Tetris game totally written in DHTML.
 
-Version: 0.15a
-Date: 7th March 2006, last changes beyond 16th August 2006 (approximately).
+Version: 0.15a 
+- Date: 7th March 2006, last changes beyond 16th August 2006 (approximately).
 
 You can donate at http://sourceforge.net/donate/index.php?group_id=173643
 
