@@ -10,6 +10,9 @@ Version: 0.15a
 You can donate at http://sourceforge.net/donate/index.php?group_id=173643
 
 
+![ScreenShot](screenshot.gif)
+
+
 Description
 
 Open source Tetris clone totally written in DHTML (HTML, CSS and JavaScript).
