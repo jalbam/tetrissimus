@@ -13,7 +13,7 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=173643
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
 Open source Tetris clone totally written in DHTML (HTML, CSS and JavaScript).
 
@@ -29,5 +29,12 @@ You can find other modified and adapted versions of this game on the Internet, i
 
 This game has been tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X and others.
 
+Play online in English: http://tetrissimus.tuxfamily.org/tetrissimus_english/
+
+Play online in English (mirror): http://www.dhtmlgames.com/tetrissimus/tetrissimus_english/
+
+Play online in Spanish: http://tetrissimus.tuxfamily.org/tetrissimus_spanish/
+
+Play online in Spanish (mirror): http://www.dhtmlgames.com/tetrissimus/tetrissimus_spanish/
 
 Official web site: http://tetrissimus.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/tetrissimus/).
